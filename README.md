@@ -7,8 +7,8 @@
 **surfaces** **over** **time,** **with** **forecasting**
 **capabilities.** **Using** **real-time** **options** **market**
 **data** **(NIFTY** **index** **at** **9:15** **AM** **snapshots),**
-**weanalyze** **volatility** **surfaces** **and** **predict**
-**futurebehavior** **using** **advanced** **statistical** **methods.**
+**we** **analyze** **volatility** **surfaces** **and** **predict**
+**future** **behavior** **using** **advanced** **statistical** **methods.**
 
 **Key** **Concepts**
 
