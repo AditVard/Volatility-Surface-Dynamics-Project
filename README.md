@@ -136,10 +136,10 @@
 
 **How** **to** **Run:**
 
-**The** **project** **ismodular,but** **somescripts** **do** **need**
-**to** **use** **data** **generated** **byother** **files**
+**The** **project** **is** **modular** **,but** **some** **scripts** **do** **need**
+**to** **use** **data** **generated** **by** **other** **files**
 
-**Follow** **thesestepsto** **run** **the** **codes**
+**Follow** **these** **steps** **to** **run** **the** **codes**
 
 **1.** **Data** **Collection**
 
@@ -228,7 +228,7 @@
 > **validation** **or** **presentation**
 
 **Note:** **Most** **scripts** **assume** **data** **exists** **inside**
-**thedata/processed/folder.** **Modify** **the#** **CONFIGsection**
+**the** **data/processed/folder.** **Modify** **the#** **CONFIG** **section**
 **at** **the** **top** **of** **each** **script** **if** **your**
 **paths** **are** **different.**
 
